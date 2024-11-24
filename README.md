@@ -8,7 +8,7 @@ PingGU  is designed to facilitate the collection of system information and memor
 - **Memory Dump**: When a button is clicked on the target device's interface, the system gathers detailed memory dump data and sends it to the host PC.
 
 ## Project Status
-PinGU is **still in the works**. Currently, it is functional for sending basic system information from the target device to the host PC. The memory dump feature is under development and may be subject to changes or improvements in the future.
+PingGU is **still in the works**. Currently, it is functional for sending basic system information from the target device to the host PC. The memory dump feature is under development and may be subject to changes or improvements in the future.
 
 ## Getting Started
 ### Requirements
