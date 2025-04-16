@@ -1,4 +1,7 @@
 # PingGU
+
+## future
+i could not be borthered fixing it so it is now readonly. 
 ## Project Overview
 PingGU  is designed to facilitate the collection of system information and memory dumps from a target device to a host PC. The target device connects to a Flask web server running on the host PC. Upon pressing a button in the web interface, the target device sends detailed system information, including the list of running processes and memory usage statistics, to the host.
 
